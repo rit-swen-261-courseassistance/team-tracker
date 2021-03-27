@@ -1,0 +1,129 @@
+s1b_virtual_standups
+	Jake Trionfo: 2
+	Maksym Melnyk: 1
+	Noah Carney: 1
+random
+	Ben Coffta: 1
+s1a_virtual_standups
+	Chris Piccoli: 7
+	Ben Coffta: 9
+	Adam Densman: 7
+	Halle Masaryk: 5
+	Kushal Malhotra: 2
+s1c_team_contract
+s1c_virtual_standups
+	Sofia Bzhilyanskaya: 8
+	Nick Chen: 5
+	Jamie Howard: 13
+	William Liou: 4
+	Matt Greene: 1
+webcheckers
+	Kenn Martinez: 2
+	Alex Wilkes: 12
+	Mike White: 5
+	Will Petersen: 1
+	Matt Hills: 3
+	Chris Piccoli: 9
+	Aaron Segal: 1
+	Ethan Yaccarino-Mims: 2
+	Jamie Howard: 1
+	Austin Miller: 6
+	Payton Burak: 1
+	Gerrit Krot: 1
+	Ben Coffta: 4
+	Halle Masaryk: 2
+s2a_team_contract
+s1c_general
+	Sofia Bzhilyanskaya: 85
+	William Liou: 53
+	Matt Greene: 34
+	Jamie Howard: 261
+	Nick Chen: 146
+	Kenn Martinez: 1
+s2c_trello
+s2c_virtual_standups
+	Caleb Eldridge: 6
+	Jack Gilbert: 11
+	Mike Nystoriak: 10
+	Aaron Segal: 7
+cas-prof-comms
+	Kenn Martinez: 15
+	Alex Wilkes: 10
+	Austin Miller: 4
+s2b_general
+	Matt Hills: 46
+	Josh Greco: 12
+	Amr Mualla: 5
+	Jude Paulemon: 20
+	Kenn Martinez: 1
+	Karl Giczkowski: 1
+	Alex Wilkes: 3
+s2b_team_contract
+s1a_general
+	Chris Piccoli: 70
+	Kushal Malhotra: 51
+	Adam Densman: 82
+	Ben Coffta: 42
+	Kenn Martinez: 1
+	Halle Masaryk: 59
+	Alex Wilkes: 1
+s1b_team_contract
+s1d_general
+	Rafeed Reza Choudhury: 45
+	Will Petersen: 60
+	Mike White: 159
+	David Allen: 16
+	Sokol Nguyen: 35
+	Kenn Martinez: 1
+s1d_virtual_standups
+	Rafeed Reza Choudhury: 7
+	David Allen: 5
+	Will Petersen: 2
+	Mike White: 15
+	Sokol Nguyen: 7
+s2d_virtual_standups
+	Ethan Yaccarino-Mims: 6
+	Greg Godlewski: 11
+	Shrif Rai: 7
+	JiaLiang (Hayden) Liang: 4
+s2a_general
+	Payton Burak: 73
+	John Davidson: 76
+	Evan Ruttenberg: 23
+	Gerrit Krot: 53
+	Michael Canning: 59
+	Kenn Martinez: 1
+s2a_virtual_standups
+	DailyBot: 42
+	Michael Canning: 3
+s2c_general
+	Mike Nystoriak: 91
+	Aaron Segal: 56
+	Jack Gilbert: 42
+	Kenn Martinez: 1
+	Caleb Eldridge: 12
+s2b_virtual_standups
+	Matt Hills: 10
+	Josh Greco: 7
+	Amr Mualla: 8
+	Karl Giczkowski: 2
+s2d_team_contract
+s1b_general
+	David Pritchard: 27
+	Maksym Melnyk: 107
+	Jake Trionfo: 110
+	Noah Carney: 96
+	Kenn Martinez: 1
+s1d_team_contact
+s2c_team_contract
+s2d_general
+	Ethan Yaccarino-Mims: 17
+	Greg Godlewski: 14
+	JiaLiang (Hayden) Liang: 13
+	Shrif Rai: 13
+	Kenn Martinez: 1
+s1a_team_contract
+s2b_meeting_notes
+	Matt Hills: 2
+s2c_meeting_notes
+s2a_trello_updates
